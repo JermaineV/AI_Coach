@@ -1,5 +1,7 @@
 # AI Communication Coach
 
+[![AI Communication Coach Image](https://github.com/JermaineV/JermaineV.github.io/blob/9485850cfc3d0007e00998eb6b26f9225f5d1721/images/botpic.jpeg?raw=true)](https://github.com/JermaineV/AI_Coach)
+
 This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews. The coach can leverage various techniques, including:
 
 - **Speech Recognition:** Capture user input through speech.
