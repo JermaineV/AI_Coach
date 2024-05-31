@@ -8,6 +8,18 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 - **Text Analysis:** Analyze the text content to understand sentiment, keywords, and named entities.
 - **Pre-trained LLM Integration:** Utilize a pre-trained Large Language Model (LLM) like GPT-j to generate informative responses.
 
+## Index
+1. [Features (In Progress)](#features-in-progress)
+2. [Tech Stack](#tech-stack)
+3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+4. [Current Functionality](#current-functionality)
+5. [Future Development](#future-development)
+6. [Transformers and LLMs](#transformers-and-llms)
+7. [License](#license)
+
 ## Features (In Progress)
 
 - **Speech Recognition**: Capture and analyze user speech for content and delivery.
@@ -129,4 +141,3 @@ Downloading large LLMs can require significant storage space and processing powe
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
