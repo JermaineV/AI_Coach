@@ -18,7 +18,7 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 4. [Current Functionality](#current-functionality)
 5. [Future Development](#future-development)
 6. [Transformers and LLMs](#transformers-and-llms)
-7. [License](#license)
+7. [License](https://github.com/JermaineV/AI_Coach/blob/230c61b8769721db73a9b1c617dfdd47eb4db38f/LICENSE.md)
 
 ## Features (In Progress)
 
