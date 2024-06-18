@@ -93,7 +93,8 @@ This project aims to develop a platform that utilizes Artificial Intelligence (A
 - **Speech Recognition**: Capture and analyze user speech.
 - **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition.
 - **LLM Integration**: Use pre-trained LLMs to generate responses based on user input.
-
+- **Video Showcasing Current progress** [Video link](https://photos.onedrive.com/share/916B414DAF7F6FE4!5226?cid=916B414DAF7F6FE4&resId=916B414DAF7F6FE4!5226&authkey=!AOuQb0RbxwT6jjM&ithint=video&e=Amhrcv)
+  
 ## Future Development
 
 - Enhance response generation using the LLM with context awareness and conversation history.
